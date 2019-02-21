@@ -1,0 +1,26 @@
+/* 
+请把与index.html页面相关的css代码写在这里
+同时删除该注释
+*/
+
+/* #message只是一个示例，可以删除 */
+#message {
+	height: auto;
+	line-height: 30px;
+	border: 1px solid red;
+}
+.shape {
+	width: auto;
+	height: 40px;
+	color: black;
+	margin: 10px;
+	padding: 10px;
+	display: flex;
+	flex-direction: row;
+	/* justify-content: center; */
+	align-items: center;
+  }
+  .content {
+	margin-left: 20px;
+	margin-right: 20px;
+  }
